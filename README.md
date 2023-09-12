@@ -6,7 +6,7 @@ To set up the development environment and run the web application locally, follo
 
 1. Clone the GitHub repository:
     ```shell
-   git clone https://github.com/Justice-source/Statistics-web-app.git
+   git clone https://github.com/Justice-source/Fibonacci-calculating-web-app.git
     
 2. Install the dependencies:
    ```shell
